@@ -39,7 +39,7 @@ Root or sudo privileges for raw socket access.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/wifi-analyzer.git
+git clone https://github.com/mkay489/wifi-analyzer.git
 cd wifi-analyzer
 pip install -r requirements.txt
 ```
